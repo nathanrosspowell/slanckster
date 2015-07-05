@@ -9,6 +9,7 @@ As Seen on Internet!
 The original [reddit thread][sadreddit].
 
 The keyboard:
+
 <img src="http://i.imgur.com/rXijFNm.jpg"></img>
 
 The proof: [webm][webm], [youtube][youtube], [reddit][sadgifreddit]
