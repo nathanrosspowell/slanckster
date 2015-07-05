@@ -12,7 +12,8 @@ The keyboard:
 <img src="http://i.imgur.com/rXijFNm.jpg"></img>
 
 The proof: [webm][webm], [youtube][youtube], [reddit][sadgifreddit]
-<img src="http://i.imgur.com/wqZcfad.gif"></img>
+![Output sample](https://github.com/nathanrosspowell/slanckster/raw/master/slanckster.gif)
+
 Install
 =======
 
