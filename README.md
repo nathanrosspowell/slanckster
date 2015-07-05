@@ -8,7 +8,7 @@ As Seen on Internet!
 
 The original [reddit thread][sadreddit].
 
-The keyboard:
+The [keyboard][log]:
 
 <img src="http://i.imgur.com/rXijFNm.jpg"></img>
 
@@ -34,6 +34,7 @@ Credits
 * [Geekhack][geekhack]
 * [/r/MK][rmk]
 
+[log]: http://imgur.com/a/jLRFM
 [webm]: http://gfycat.com/ifr/CloseCalculatingBufflehead
 [youtube]: https://www.youtube.com/watch?v=i6ZAdQMa8qU
 [ortho]: http://ortholinearkeyboards.com/
