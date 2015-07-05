@@ -12,6 +12,7 @@ The keyboard:
 <img src="http://i.imgur.com/rXijFNm.jpg"></img>
 
 The proof: [webm][webm], [youtube][youtube], [reddit][sadgifreddit]
+<img src="http://giant.gfycat.com/CloseCalculatingBufflehead.gif"></img>
 
 Install
 =======
